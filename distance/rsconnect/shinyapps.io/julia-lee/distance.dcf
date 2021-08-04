@@ -1,0 +1,12 @@
+name: distance
+title: distance
+username:
+account: julia-lee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4454678
+bundleId: 4886013
+url: https://julia-lee.shinyapps.io/distance/
+when: 1628050273.21445
+asMultiple: FALSE
+asStatic: FALSE
